@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Expense Tracker MCP" width="1000"/>
+  <img src="images/header.png" alt="Expense Tracker MCP" width="1000"/>
 </p>
 
 ---
@@ -20,25 +20,21 @@ Instead of manually interacting with spreadsheets or expense management applicat
 
 ## 📈 Application Preview
 
-### MCP Server Running
+### Claude Desktop Integration
 
 ![Preview](images/1.png)
 
-### Claude Desktop Integration
+### Adding an Expense
 
 ![Preview](images/2.png)
 
-### Adding an Expense
+### Viewing Expenses
 
 ![Preview](images/3.png)
 
-### Viewing Expenses
-
-![Preview](images/4.png)
-
 ### Expense Summary
 
-![Preview](images/5.png)
+![Preview](images/4.png)
 
 ---
 
